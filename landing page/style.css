@@ -1,0 +1,22 @@
+.bgimg{
+    background-image: url("bgimg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.bg-col{
+    background-color: greenyellow;
+}
+.bg-col .container a{
+    color: black;
+}
+.bg-col .container a:hover{
+    color: white;
+    padding: 5px;
+    background-color: black;
+    border-radius: 25px;
+}
+.bg-col .container h1{
+    font-family: cursive;
+}
